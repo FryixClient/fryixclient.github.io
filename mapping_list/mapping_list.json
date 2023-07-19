@@ -1,10 +1,10 @@
 {
     "mapping": {
         "1.8.9": {
-            "srg": "",
-            "fieldCSV": "",
-            "methodCSV": "",
-            "mappingJar": ""
+            "srg": "https://fryixclient.github.io/mapping_list/1.8.9/joined.srg",
+            "fieldCSV": "https://fryixclient.github.io/mapping_list/1.8.9/fields.csv",
+            "methodCSV": "https://fryixclient.github.io/mapping_list/methods.csv",
+            "mappingJar": "https://fryixclient.github.io/mapping_list/mapping.jar"
         }
     }
 }
