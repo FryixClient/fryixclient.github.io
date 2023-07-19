@@ -4,7 +4,8 @@
             "srg": "https://fryixclient.github.io/mapping_list/1.8.9/joined.srg",
             "fieldCSV": "https://fryixclient.github.io/mapping_list/1.8.9/fields.csv",
             "methodCSV": "https://fryixclient.github.io/mapping_list/1.8.9/methods.csv",
-            "mappingJar": "https://fryixclient.github.io/mapping_list/1.8.9/mapping.jar"
+            "mappingJar": "https://fryixclient.github.io/mapping_list/1.8.9/mapping.jar",
+            "mapping": "https://fryixclient.github.io/mapping_list/1.8.9/mapping.json"
         }
     }
 }
